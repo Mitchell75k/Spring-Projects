@@ -1,0 +1,195 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BurgerTrackerApplication",
+            "request": "launch",
+            "mainClass": "com.mitchell.esparza.burger_tracker.BurgerTrackerApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "MvcApplication",
+            "request": "launch",
+            "mainClass": "com.mitchell.esparza.mvc.MvcApplication"
+        },
+        {
+            "type": "java",
+            "name": "CounterApplication",
+            "request": "launch",
+            "mainClass": "com.mitchell.esparza.fruity_loops.CounterApplication"
+        },
+        {
+            "type": "java",
+            "name": "CounterAssignmentApplication",
+            "request": "launch",
+            "mainClass": "com.mitchell.esparza.counter_assignment.CounterAssignmentApplication"
+        },
+        {
+            "type": "java",
+            "name": "FruityLoopsApplication",
+            "request": "launch",
+            "mainClass": "com.mitchell.esparza.fruity_loops.FruityLoopsApplication"
+        },
+        {
+            "type": "java",
+            "name": "HopperReceiptApplication",
+            "request": "launch",
+            "mainClass": "com.mitchell.esparza.hopper_receipt.HopperReceiptApplication"
+        },
+        {
+            "type": "java",
+            "name": "HoppersRecieptApplication",
+            "request": "launch",
+            "mainClass": "com.mitchell.esparza.hoppers_reciept.HoppersRecieptApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "HelloHumanApplication",
+            "request": "launch",
+            "mainClass": "com.mitchell.esparza.hello_human.HelloHumanApplication",
+            "projectName": "hello_human"
+        },
+        {
+            "type": "java",
+            "name": "DaikachiRoutesApplication",
+            "request": "launch",
+            "mainClass": "com.mitchell.esparza.DaikachiRoutesApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "DaikachiRoutesApplication",
+            "request": "launch",
+            "mainClass": "com.mitchell.esparza.daikachi_routes.DaikachiRoutesApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-HelloWorldApplication<HelloWorld>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.mitchell.esparza.HelloWorldApplication",
+            "projectName": "HelloWorld",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env",
+            "vmArgs": " -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.port=59043 -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Dspring.jmx.enabled=true -Djava.rmi.server.hostname=localhost -Dspring.application.admin.enabled=true -Dspring.boot.project.name=HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-DaikachiRoutesApplication<daikachi_routes>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.mitchell.esparza.DaikachiRoutesApplication",
+            "projectName": "daikachi_routes",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-FortuneRoutesApplication<fortune_routes>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.mitchell.esparza.fortune_routes.FortuneRoutesApplication",
+            "projectName": "fortune_routes",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env",
+            "vmArgs": " -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.port=56358 -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Dspring.jmx.enabled=true -Djava.rmi.server.hostname=localhost -Dspring.application.admin.enabled=true -Dspring.boot.project.name=fortune_routes"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-HopperReceiptApplication<hopper_receipt>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.mitchell.esparza.hopper_receipt.HopperReceiptApplication",
+            "projectName": "hopper_receipt",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env",
+            "vmArgs": " -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.port=58014 -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Dspring.jmx.enabled=true -Djava.rmi.server.hostname=localhost -Dspring.application.admin.enabled=true -Dspring.boot.project.name=hopper_receipt"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-FruityLoopsApplication<fruity_loops>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.mitchell.esparza.fruity_loops.FruityLoopsApplication",
+            "projectName": "fruity_loops",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env",
+            "vmArgs": " -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.port=56689 -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Dspring.jmx.enabled=true -Djava.rmi.server.hostname=localhost -Dspring.application.admin.enabled=true -Dspring.boot.project.name=fruity_loops"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-CounterApplication<counter>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.mitchell.esparza.counter.CounterApplication",
+            "projectName": "counter",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env",
+            "vmArgs": " -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.port=55088 -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Dspring.jmx.enabled=true -Djava.rmi.server.hostname=localhost -Dspring.application.admin.enabled=true -Dspring.boot.project.name=counter"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-CounterAssignmentApplication<counter_assignment>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.mitchell.esparza.counter_assignment.CounterAssignmentApplication",
+            "projectName": "counter_assignment",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env",
+            "vmArgs": " -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.port=56766 -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Dspring.jmx.enabled=true -Djava.rmi.server.hostname=localhost -Dspring.application.admin.enabled=true -Dspring.boot.project.name=counter_assignment"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MvcApplication<mvc>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.mitchell.esparza.mvc.MvcApplication",
+            "projectName": "mvc",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-BurgerTrackerApplication<burger_tracker>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.mitchell.esparza.burger_tracker.BurgerTrackerApplication",
+            "projectName": "burger_tracker",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SaveTravelsApplication<save_travels>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.mitchell.esparza.save_travels.SaveTravelsApplication",
+            "projectName": "save_travels",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SafeTravelsApplication<safe_travels>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.mitchell.esparza.safe_travels.SafeTravelsApplication",
+            "projectName": "safe_travels",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-TravelExpensesApplication<travel_expenses>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.mitchell.esparza.travel_expenses.TravelExpensesApplication",
+            "projectName": "travel_expenses",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

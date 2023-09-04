@@ -1,0 +1,1 @@
+This folder demonstrates my skill progress from being at a beginner to intermediate level in creating Java Spring Projects. 

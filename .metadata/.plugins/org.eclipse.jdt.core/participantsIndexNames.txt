@@ -1,0 +1,11 @@
+INDEX VERSION 1.134
+/Users/mitchell/Documents/SpringProjects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1046232230.index
+/CounterAssignment/src/main/java
+/Users/mitchell/Documents/SpringProjects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4046172206.index
+/TravelExpenses/src/main/java
+/Users/mitchell/Documents/SpringProjects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1993490044.index
+/HelloWorld/src/main/java
+/Users/mitchell/Documents/SpringProjects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2405109710.index
+/fortune_routes/src/main/java
+/Users/mitchell/Documents/SpringProjects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4025685000.index
+/HelloWorld/src/main/java
